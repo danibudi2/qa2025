@@ -1,0 +1,1 @@
+C:\Users\student\AppData\Local\Microsoft\WindowsApps\python.exe C:\Users\student\Documents\test.py
